@@ -2,8 +2,7 @@
 
 Welcome to my GitHub profile!
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/370d09b8-7439-4dc3-8266-ff5ff7c7a292)
-"
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI0d2R6bXZvNzdjdWNwdTJ2dzB3dWowYW42bTJqemV1ZXRraThiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.webp"
 
 ## About Me
 
