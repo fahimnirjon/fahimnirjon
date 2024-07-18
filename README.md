@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile!
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/370d09b8-7439-4dc3-8266-ff5ff7c7a292)
+"
+
 ## About Me
 
 I'm a junior frontend web developer and a newbie MERN stack developer. I have a passion for creating dynamic and responsive web applications. Here are some of the skills and technologies I've been working with:
