@@ -8,7 +8,7 @@ I've been learning and exploring coding for last 3 years. Recently i have been p
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Github](http://https://github.com/fahimnirjon)
-* ✉️  You can contact me at [fahimnirjon21@gmail.com | +88-01713865204](mailto:fahimnirjon21@gmail.com | +88-01713865204)
+* ✉️  You can contact me at Email: fahimnirjon21@gmail.com | Call: +88-01713865204
 * 🚀  I'm currently working on [My PortFolio](http://https://github.com/fahimnirjon/My-Portfolio)
 * 🧠  I'm learning NextJS, JWT Token, Server Side Rendering, DBMS, SEO and so on.
 * 🤝  I'm open to collaborating on Responsive and Reactive Website design, Management and Publishment.
