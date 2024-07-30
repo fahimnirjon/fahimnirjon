@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on Developing **My Portfolio**
  
- 🌱 I’m currently learning **DBMS, SAAS, AWS**
+ 🌱 I’m currently learning **DBMS, MongoDB**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/fahimnirjon/)**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,github,nodejs,firebase,express,mongodb" /> <br>
+    <img src="https://skillicons.dev/icons?i=git,vscode,python,java,typescript,c,nextjs,mysql" /><br>
 </div>
 
 <br/>
