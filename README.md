@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Developing **My Portfolio**
+ 🔭 I’m currently working on Developing **Airbnb Like a project with Next.js**
  
- 🌱 I’m currently learning **DBMS, MongoDB**
+ 🌱 I’m currently learning **Next.JS, PostgreSQL, Prisma, Clerk**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://fahimnirjon.github.io/Fahim-Nirjon/)**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,github,nodejs,firebase,express,mongodb" /> <br>
-    <img src="https://skillicons.dev/icons?i=git,vscode,python,java,typescript,c,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,python,postgresql,prisma,java,typescript,c,nextjs,mysql" /><br>
 </div>
 
 <br/>
