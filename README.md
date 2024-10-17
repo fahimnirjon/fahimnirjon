@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **DBMS, MongoDB**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/fahimnirjon/)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://fahimnirjon.github.io/Fahim-Nirjon/)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/fahimnirjon04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://fahimnirjon-04.netlify.app/" target="_blank">
+  <a href="https://fahimnirjon.github.io/Fahim-Nirjon/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
