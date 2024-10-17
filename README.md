@@ -14,14 +14,15 @@
 
 These are some of the technologies and tools that I work with:-
 
-![NextJS](https://img.shields.io/badge/-NextJs-E0234E?style=flat-square&logo=nextjs&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![NextJS](https://img.shields.io/badge/-NextJS-E0234E?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="23"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="20"/>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Postgre](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-FFCA28?style=flat-square&logo=clerk&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-339933?style=flat-square&logo=express.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -40,6 +41,7 @@ Cloud:
 Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Prisma](https://img.shields.io/badge/-Prisma-181717?style=flat-square&logo=prisma)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 IDEs:
